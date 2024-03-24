@@ -1,5 +1,5 @@
 # ai-journey
-I plan to learn many topics about artificial intelligence here, starting from the basic level. I will list the topics I will learn in the readme section.
+I plan to learn many topics about artificial intelligence here, starting from the basic level. I will list the topics I will learn in the readme section.I would like to thank the C and System Association and Kaan Arslan as a source for creating this repo.
 
 
 * __Gözden Geçirme ve Hazırlık__
