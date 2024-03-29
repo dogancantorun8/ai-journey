@@ -250,7 +250,7 @@ I plan to learn many topics about artificial intelligence here, starting from th
   * Makine Öğrenmesi İçin Google Cloud Platformunun Kullanımı
   * Makine Öğrenmesi İçin IBM Watson Platformunun Kullanımı 
 
-#virtual environment: 
+#virtual environment:
 python -m venv aienv
 aienv\Scripts\activate #linux ==>source myenv/bin/activate
 deactivate
