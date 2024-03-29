@@ -22,6 +22,7 @@ def category_encoder(df, colnames):
             df.loc[df[colname] == label, colname] = index
     
 category_encoder(df, ['Suburb', 'SellerG', 'Method', 'CouncilArea', 'Regionname'])
+print("***")
 print(df)
 
 
