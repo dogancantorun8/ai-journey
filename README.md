@@ -2,253 +2,253 @@
 I plan to learn many topics about artificial intelligence here, starting from the basic level. I will list the topics I will learn in the readme section.I would like to thank the C and System Association and Kaan Arslan as a source for creating this repo.
 
 
-* __Gözden Geçirme ve Hazırlık__
+* Review and Preparation
 
-   * Yapay Zeka ve Makine Öğrenmesi İçin Neden Python? 
-   * Yapay Zeka ve Makine Öğrenmesinde Diğer Programlama Dillerinin Avantajları ve Dezavantajları
-   * Python Programlama Dilinin Yeniden Gözden Geçirilmesi
-   * Scipy, Numpy, Pandas ve Matplotlib Kütüphanelerinin Yeniden Gözden Geçirilmesi
+   * Why Python for Artificial Intelligence and Machine Learning? 
+   * Advantages and Disadvantages of Other Programming Languages in Artificial Intelligence and Machine Learning
+   * Python Programming Language Revisited
+   * Review of Scipy, Numpy, Pandas and Matplotlib Libraries
 
-* __Giriş ve Temel Bilgiler__
+* __Introduction and Basic Information__
 
-  * Yapay Zeka Çalışmalarının Tarihsel Gelişimi
-  * Yapay Zekanın Alt Alanları
-  * Yapay Zekanın Uygulama Alanları
-  * Öğrenme Nedir? Makineler Öğrenebilir mi?
-  * İnsan Öğrenmesinin Bilinen Süreçleri (Klasik Koşullanma, Edimsel Koşullanma, Bilişsel Öğrenme, Sosyal Bilişsel Öğrenme)
-  * Makine Öğrenmesi Nedir?
-  * Makine Öğrenmesinin Çeşitleri: Denetimli (Supervised) Öğrenme, Denetimsiz (Unsupervised) Öğrenme ve Pekiştirmeli (Reinforcement) Öğrenme Kavramları
-  * Makine Öğrenmesinin Diğer Disiplinlerle İlgisi
-  * Makine Öğrenmesi İçin Ne Kadar Matematik ve İstatistik Bilmek Gerekir? 
-  * Python'da Veri Kümelerinin Dosyalardan Okunması ve Kullanıma Hazır Hale Getirilmesi
+  * Historical Development of Artificial Intelligence Studies
+  * Subfields of Artificial Intelligence
+  * Application Areas of Artificial Intelligence
+  * What is Learning? Can Machines Learn?
+  * Known Processes of Human Learning (Classical Conditioning, Operant Conditioning, Cognitive Learning, Social Cognitive Learning)
+  * What is Machine Learning?
+  * Types of Machine Learning: Supervised Learning, Unsupervised Learning and Reinforcement Learning Concepts
+  * Relevance of Machine Learning to Other Disciplines
+  * How Much Mathematics and Statistics Do You Need to Know for Machine Learning? 
+  * Reading Datasets from Files in Python and Making them Ready for Use
 
-* __Biraz İstatistik__
+* __Some Statistics__
   
-  * İstatistiksel Ölçek Türleri 
-  * Kategorik (Nominal) ve Sıralı (Ordinal) Verilerin Sayısal Biçime Dönüştürülmesi
-  * One Hot Encoding Dönüştürmesi
-  * Betimsel (Descriptive) ve Çıkarımsal (Inferential) İstatistik
-  * Anakütle ve Örneklem Kavramları
-  * Olasılıkla İlgili Temel Bilgiler 
-  * Python'da Betimsel İstatistik İle İlgili Kütüphanelerin Yeniden Gözden Geçirilmesi
-  * Rassal Değişken Kavramı
-  * Olasılık Dağılımları
-  * Çok Karşılaşılan Bazı Sürekli Dağılımlar
-  * Merkezi Limit Teoremi
-  * Güven Aralıkları (Confidence Intervals)
-  * İstatistiksel Hipotez Testleri Hakkında Temel Bilgiler, Hipotez Testlerinde Kullanılan Kavramlar, Terimler ve Onların Anlamları
+  * Types of Statistical Scales 
+  * Conversion of Categorical (Nominal) and Ordinal Data into Numerical Format
+  * One Hot Encoding Conversion
+  * Descriptive and Inferential Statistics
+  * Main Population and Sampling Concepts
+  * Basic Information about Probability 
+  * Review of Descriptive Statistics Related Libraries in Python
+  * Random Variable Concept
+  * Probability Distributions
+  * Some Common Continuous Distributions
+  * Central Limit Theorem
+  * Confidence Intervals
+  * Basic Information About Statistical Hypothesis Testing, Concepts, Terms and Their Meanings Used in Hypothesis Testing
   
-* __Yapay Sinir Ağları__
+* __Artificial Neural Networks__
 
-  * İnsanın Sinir Sisteminin Anatomi ve Fizyolojisi İle İlgili Temel Bilgiler (Nöronlar, Nörotransmiter'ler, Sinaps'lar, Reseptörler, ...)
-  * Öğrenme Beyinde Nasıl Gerçekleşmektedir? 
-  * Bilgiler Beyinde Nasıl Tutulmaktadır? 
-  * Duyum ve Algı Kavramları 
-  * Beynin Bilinenleri ve Bilinmeyenleri
-  * Yapay Sinir Ağı Nedir?
-  * Yapay Sinir Ağlarının Tarihsel Gelişimi
-  * Yapay Sinir Ağlarının Uygulama Alanları
-  * Yapay Nöron Modeli
-  * Yapay Bir Nöronun Python'da Sınıfsal Temsili
-  * Aktivasyon Fonksiyonları ve Nöron Bağlantıları
-  * Yapay Sinir Ağlarında Katmanlar
-  * Yapay Sinir Ağlarında Yaygın Kullanılan Kütüphaneler ve Framework'ler
-  * Denetimli Yapay Sinir Ağlarında Veri Kümeleri (Eğitim Veri Kümesi, Sınama Veri Kümesi ve Test Veri Kümesi)
-  * Keras Kütüphanesinin Kısa Tarihi
-  * Keras Kütüphanesinin Kurulumu
-  * Yapay Sinir Ağlarının Keras Kütüphanesi İle Yüksek Seviyeli Biçimde Oluşturulması
-  * Girdi Katmanlarının, Ara Katmanların ve Çıktı Katmanlarının Oluşturulması
-  * Loss Fonksiyonlarının Anlamı ve Çok Kullanılan Loss Fonksiyonları
-  * Optimizasyon Algoritmalarının Anlamı ve Çok Kullanılan Optimizasyon Algoritmaları
-  * Keras'ta Yapay Sinir Ağı Modelinin Eğitilmesi
-  * Epoch ve Batch Kavramları
-  * Sınama (Validation) İşleminin Anlamı
-  * Test Veri Kümesi ve Yapay Sinir Ağı Modelinin Test Edilmesi
-  * Keras Modelinin Dosyalarda Saklanması ve Geri Yüklenmesi
-  * Keras'ta Callback Mekanizması
-  * Yapay Sinir Ağlarında Özellik Ölçeklemeleri (Feature Scaling) 
-  * Yapay Sinir Ağlarında "Overfitting" ve "Underfitting" Olguları
-  * Kestirim Modeli Olarak Yapay Sinir Ağı Modelleri ile İstatistiksel Regresyon Modelleri Arasındaki Farklılıklar ve Benzerlikler
-  * Yapay Sinir Ağlarıyla Sınıflandırma (Lojistik Regresyon) Problemleri
-  * Çok Sınıflı (Multinomial) ve Çok Etiketli (Multilabel) Sınıflandırma Modelleri
-  * Yapay Sinir Ağlarıyla Lojistik Olmayan Regresyon Modelleri
-  * Yapay Sinir Ağlarında Evrişim (Convolution) İşlemleri ve Evrişimsel Sinir Ağları
-  * Keras'ta Evrişimsel Sinir Ağları İle İşlemler
-  * Evrişimsel Sinir Ağı Modellerinde Nöron Sayılarının Azaltılması (Downsampling)
-  * Keras'ta Eğitimin Belli Bir Durumda Sonlandırılması
-  * Geri Beslemeli Sinir Ağları (Recurrent Neural Networks)
-  * Geri Beslemeli Sinir Ağlarında SimpleRNN, LSTM ve GRU Katmanları
-  * Çift Yönlü LSTM Katmanları
-  * Geri Beslemeli Sinir Ağlarının Kestirimde Kullanılmaları
-  * Geri Beslemeli Sinir Ağlarına İlişkin Örnekler
-  * Autoencoder Modelleri
-  * Keras Modellerinin Fonksiyonel Olarak Oluşturulması
+  * Basic Information on Anatomy and Physiology of Human Nervous System (Neurons, Neurotransmitters, Synapses, Receptors, ...)
+  * How is Learning Realised in the Brain? 
+  * How is the information held in the brain? 
+  * Sensation and Perception Concepts 
+  * Knowns and Unknowns of the Brain
+  * What is Artificial Neural Network?
+  * Historical Development of Artificial Neural Networks
+  * Application Areas of Artificial Neural Networks
+  * Artificial Neuron Model
+  * Classical Representation of an Artificial Neuron in Python
+  * Activation Functions and Neuronal Connections
+  * Layers in Artificial Neural Networks
+  * Commonly Used Libraries and Frameworks in Artificial Neural Networks
+  * Data Sets in Supervised Artificial Neural Networks (Training Data Set, Testing Data Set and Test Data Set)
+  * Brief History of the Keras Library
+  * Keras Library Installation
+  * High Level Generation of Artificial Neural Networks with Keras Library
+  * Creating Input Layers, Intermediate Layers and Output Layers
+  * Meaning of Loss Functions and Commonly Used Loss Functions
+  * Meaning of Optimisation Algorithms and Commonly Used Optimisation Algorithms
+  * Training of Artificial Neural Network Model in Keras
+  * Epoch and Batch Concepts
+  * Meaning of Validation
+  * Test Data Set and Testing of Artificial Neural Network Model
+  * Storing and Restoring Keras Model in Files
+  * Callback Mechanism in Keras
+  * Feature Scaling in Artificial Neural Networks 
+  * "Overfitting" and "Underfitting" Cases in Artificial Neural Networks
+  * Differences and Similarities between Artificial Neural Network Models and Statistical Regression Models as Prediction Models
+  * Classification (Logistic Regression) Problems with Artificial Neural Networks
+  * Multinomial and Multilabel Classification Models
+  * Non-Logistic Regression Models with Artificial Neural Networks
+  * Convolution in Artificial Neural Networks and Convolutional Neural Networks
+  * Operations with Convolutional Neural Networks in Keras
+  * Downsampling in Convolutional Neural Network Models
+  * Termination of education in Keras in a certain situation
+  * Recurrent Neural Networks
+  * SimpleRNN, LSTM and GRU Layers in Feedback Neural Networks
+  * Bidirectional LSTM Layers
+  * Use of Feedback Neural Networks in Estimation
+  * Examples of Feedback Neural Networks
+  * Autoencoder Models
+  * Functional Creation of Keras Models
 
-* __Yapay Sinir Ağları İle Metinler Üzerinde İşlemler__
+* Operations on Texts with Artificial Neural Networks
 
-  * Metinsel Verilerde Word Embedding İşlemleri
-  * Metinlerin İçeriğe Göre Sınıflandırılması
-  * Metinlerden Anlam Çıkarılması
-  * Metinsel Çıktı Üretimleri
+  * Word Embedding Operations in Textual Data
+  * Classification of texts according to content
+  * Inferring Meaning from Texts
+  * Textual Output Productions
   
-* __Yapay Sinir Ağları İle Ses ve Görüntü Verileri Üzerinde Sınıflandırma ve Tanıma İşlemleri__
+* Classification and Recognition Processes on Audio and Video Data with Artificial Neural Networks
 
-  * Konuşma Kayıtlarına İlişkin Verilerle Çalışma
-  * Konuşma Verilerinde Sınıflandırma İşlemleri
-  * Yüz Tanıma İşlemleri
-  * Resimlerin Sınıflandırılması
-  * Hareketli Görüntü Verileri Üzerinde İşlemler
-  * Yapay Sinir Ağı İle Resim Tanıma Uygulamaları
-  * Renkli Resimler Üzerinde Uygulamalar
+  * Working with Speech Recording Data
+  * Classification of Speech Data
+  * Face Recognition Processes
+  * Classification of Pictures
+  * Operations on Moving Image Data
+  * Image Recognition Applications with Artificial Neural Network
+  * Applications on Colour Pictures
   
-* __TensorFlow Kütüphanesinin Kullanımı__
+* Using the __TensorFlow Library__
 
-  * TensorFlow kütüphanesinin Tarihsel Gelişimi
-  * TensorFlow Kütüphenesinin Kurulumu
-  * Tensor Nesnelerinin Oluşturulması
-  * Yapay Sinir Ağı Modellerinin TensorFlow'da Oluşturulması
-  * TensorFlow'da Yapay Sinir Ağı Örnekleri
+  * Historical Development of TensorFlow library
+  * Installation of TensorFlow Library
+  * Creating Tensor Objects
+  * Creating Artificial Neural Network Models in TensorFlow
+  * Artificial Neural Network Examples in TensorFlow
 
-* __PyTorch Kütüphanesinin Kullanımı__
+* Using the __PyTorch Library__
 
-  * PyTorch Kütüphanesinin Kurulumu
-  * PyToch Kütüphanesinin Temel Özellikleri
-  * Tensor Nesnelerinin Oluşturulması
-  * PyTorch Kütüphanesinde Temel Çalışma Biçimi
-  * PyTorch ile Yapay Sinir Ağlarının Oluşturulması
+  * PyTorch Library Installation
+  * Key Features of PyToch Library
+  * Creating Tensor Objects
+  * Basic Working Style in PyTorch Library
+  * Creating Artificial Neural Networks with PyTorch
   
-* __Theano Kütüphanesinin Kullanımı__
+* __Using the Theano Library__
   
-  * Theano Kütüphanesinin Kurulumu
-  * Theano Kütüphanesinin Kurulumu
-  * Theano Kütüphanesinin Temel Özellikleri
-  * Theano Kütüphanesi ile Yapay Sinir Ağlarının Oluşturulması
+  * Theano Library Installation
+  * Theano Library Installation
+  * Key Features of Theano Library
+  * Creating Artificial Neural Networks with Theano Library
 
-* __Denetimsiz Öğrenme (Unsupervised Learning)__
+* Unsupervised Learning (Unsupervised Learning)__
 
-  * Kümeleme (Clustering) İşlemleri
-  * K-Means Kümeleme Algoritması
-  * Hiyerarşik Kümeleme Algoritmaları
-  * Yoğunkluk Temelli DBSCAN ve OPTICS Kümeleme Algoritmaları
-  * Kümeleme İşlemlerinde Kullanılan Diğer Önemli Algoritmalar
-  * Kümeleme Algoritmalarının Çeşitli Bakımlardan Birbirleriyle Karşılaştırılması
+  * Clustering Operations
+  * K-Means Clustering Algorithm
+  * Hierarchical Clustering Algorithms
+  * DBSCAN and OPTICS Clustering Algorithms Based on Density
+  * Other Important Algorithms Used in Clustering Operations
+  * Comparison of Clustering Algorithms with Each Other in Various Aspects
 
-* __Biraz Lineer Cebir__
+* __Some Linear Algebra__
 
-  * Matrisler ve Determinantlar
-  * Lineer Denklem Sistemlerinin Çözümü
-  * Özdeğerler ve Özvektörler
+  * Matrices and Determinants
+  * Solution of Systems of Linear Equations
+  * Eigenvalues and Eigenvectors
   
-* __Veri Tablolarında Boyutsal Özellik İndirgemeleri__
+* __Dimensional Property Reductions in Data Tables__
 
-  * Eksik Değerli Sütunların Atılması (Missing Value Ratio)
-  * Düşük Varyans Filtremeleri
-  * Yüksek Korelasyon Filtremeleri
-  * Geriye Doğru Özellik İndirgemeler (Backward Feature Elimination)
-  * İleriye Doğru Özellik İndirgemeleri (Forward Feature Elimination)
-  * Faktör Analizi Yöntemi İle Boyutsal Özellik İndirgemeleri
-  * Temel Bileşenler Analizi İle Boyutsal Boyutsal İndirgemeleri
+  * Discarding Missing Value Columns (Missing Value Ratio)
+  * Low Variance Filters
+  * High Correlation Filters
+  * Backward Feature Elimination
+  * Forward Feature Elimination
+  * Dimensional Feature Reductions with Factor Analysis Method
+  * Dimensional Dimensional Reductions with Principal Component Analysis
 
-* __Anomalilerin Tespit Edilmesi (Anomaly Detection)__
+* __Anomaly Detection (Anomaly Detection)__
   
-  * Anomalilerin Tespit Edilmesi İçin Yaklaşımlar
-  * Kümeleme Tabanlı Anomali Tespit Yöntemleri
-  * Anomalilerin Tespit Edilmesi İçin Kullanılan Diğer Önemli Yaklaşımlar
+  * Approaches for the Detection of Anomalies
+  * Clustering Based Anomaly Detection Methods
+  * Other Important Approaches Used to Detect Anomalies
 
-* __Matematiksel Optimizasyon İşlemleri__
+* __Mathematical Optimisation Operations__
 
-  * Maksimizasyon ve Minimizasyon Problemleri
-  * Gradient Ascent ve Gradient Descent Algoritmalarının Anlamı
-  * Stochastic Gradient Algoritmalar ve Mini Batch Yöntemleri
-  * Doğrusal Programlama ve Doğrusal Karar Modellerinin Scipy ve Pulp Kütüphaneleri İle Çözümü 
-  * Doğrusal Olmayan Programlama ve Doğrusal Olmayan Modellerin Çözümü İçin Yaklaşımlar
-  * Graf Veri Yapıları
-  * Graflar Üzerinde Optimizasyon Problemlerinin Çözümü (Gezgin Satıcı Problemi,  En Kısa Yol Problemi, En Küçük Örten Ağaç Problemi, Hamilton ve Euler Turlu Problemler vs.)
-  * Pyton'da Graf Problemleri İçin Kullanılan Kütüphaneler
-  * Graf Çizimleri İçin Graphwiz Kütüphanesinin Kullanımı
+  * Maximisation and Minimisation Problems
+  * Meaning of Gradient Ascent and Gradient Descent Algorithms
+  * Stochastic Gradient Algorithms and Mini Batch Methods
+  * Solution of Linear Programming and Linear Decision Models with Scipy and Pulp Libraries 
+  * Nonlinear Programming and Approaches to Solving Nonlinear Models
+  * Graph Data Structures
+  * Solving Optimisation Problems on Graphs (Travelling Salesman Problem, Shortest Path Problem, Minimum Spanning Tree Problem, Hamiltonian and Euler Round Problems etc.)
+  * Libraries Used for Graph Problems in Pyton
+  * Using Graphwiz Library for Graph Drawings
 
-* __İstatistiksel Yöntemlerle Regresyon İşlemleri__
+* Regression Procedures with Statistical Methods
 
-  * Basit Doğrusal Regresyon 
-  * Çoklu Doğrusal Regresyon
-  * Çoklu Doğrual Regresyonun Önemli Sorunları
-  * Çoklu Doğrusal Regresyonda Düzenleme (Regulation) İşlemleri
-  * Lasso, Ridge ve Elastic Net Regresyonları
-  * Polinomsal Regresyon
-  * Scikit-Learn Kütüphanesi ile Doğrusal ve Polinomsal Regresyon İşlemleri
-  * İstatistiksel Lojistik Regresyon
-  * Doğrusal Olarak Ayrıştırılabilirlik (Linear Separability) ve Doğrusal Sınıflandırıcılar (Linear Classifiers)
-  * Lojistik Regresyon Problemlerinin Gradient Descent Yöntemlerle Çözülmesi
-  * Çok Sınıflı Lojistik Regresyon Problemleri
-  * Lojistik Regresyon Yöntemlerinin Karşılaştırılması
-  * Lojistik Regresyon Modellerinin Scikit-Learn Kütüphanesi İle Çözümü
+  * Simple Linear Regression 
+  * Multiple Linear Regression
+  * Important Issues of Multiple Linear Regression
+  * Regulation in Multiple Linear Regression
+  * Lasso, Ridge and Elastic Net Regressions
+  * Polynomial Regression
+  * Linear and Polynomial Regression with Scikit-Learn Library
+  * Statistical Logistic Regression
+  * Linear Separability and Linear Classifiers
+  * Solving Logistic Regression Problems with Gradient Descent Methods
+  * Multiclass Logistic Regression Problems
+  * Comparison of Logistic Regression Methods
+  * Solving Logistic Regression Models with Scikit-Learn Library
   
-* __Destek Vektör Makineleri (Support Vector Machines)__
+* __Support Vector Machines (Support Vector Machines)__
 
-  * Destek Vektör Makinelerinin Dayandığı Matematiksel Temel
-  * Destek Vektör Makineleri İle Lojistik Regresyon (Sınıflandırma) Problemlerinin Çözümü
-  * Destek Vektör Makineleri İle Lojistik Olmayan Regresyon Problemlerinin Çözümü
-  * Destek Vektör Makineleri İle İstatistiksel Regresyon Yöntemlerinin Karşılaştırılması
+  * Mathematical Basis of Support Vector Machines
+  * Solving Logistic Regression (Classification) Problems with Support Vector Machines
+  * Solving Non-Logistic Regression Problems with Support Vector Machines
+  * Comparison of Support Vector Machines and Statistical Regression Methods
   
-* __Karar Ağaçları (Decision Trees)__
+* __Decision Trees (Decision Trees)__
 
-  * Karar Ağaçlarının Dayandığı Matematiksel Temeller
-  * Karar Ağaçlarıyla Lojistik Regresyon (Sınıflandırma) Problemlerinin Çözümü
-  * Karar Ağaçlarıyla Lojistik Olmayan Regresyon Problemlerinin Çözümü
-  * Karar Ağaçlarıyla Diğer Lojistik ve Lojistik Olmayan Regresyon Modellerinin Karşılaştırılması
+  * Mathematical Foundations of Decision Trees
+  * Solving Logistic Regression (Classification) Problems with Decision Trees
+  * Solving Non-Logistic Regression Problems with Decision Trees
+  * Comparison of Decision Trees with Other Logistic and Non-Logistic Regression Models
   
-* __Naive Bayes Yöntemiyle Sınıflandırma__
+* Classification with Naive Bayes Method
   
-  * Koşullu Olasılık Kavramı 
-  * Naive Bayes Yönteminin Dayandığı Temeller
-  * Naive Bayes Yönteminin Varyasyonları (Gaussian Naive Bayes, Multinomial Naive Bayes, Categorical Naive Bayes, ...)
-  * Naive Bayes Yönteminin Scikit-Learn Kütüphanesi Kullanılarak Uygulanması
+  * Conditional Probability Concept 
+  * Fundamentals of Naive Bayes Method
+  * Variations of Naive Bayes Method (Gaussian Naive Bayes, Multinomial Naive Bayes, Categorical Naive Bayes, ...)
+  * Implementation of Naive Bayes Method using Scikit-Learn Library
 
-* __Makine Öğrenmesinde Ensemble Yöntemlerin Kullanılması__
+* __Using Ensemble Methods in Machine Learning__
 
-  * Ensemble Yöntemler Nedir?
-  * Boosting Yöntemleri 
-  * Bagging Yöntemleri
-  * Stacking Yöntemleri
-  * Rassal Ormanlar (Random Forests) 
-  * Diğer Ensemble Yöntemler
-  * KFold Validation İşleminin Anlamı ve Uygulama Alanları
-  * Scikit-Learn Kütüphanesi Kullanılarak Ensemble Yöntemlerin Uygulanması
-  * XGBoost Kütüphanesinin Kullanımı
+  * What are Ensemble Methods?
+  * Boosting Methods 
+  * Bagging Methods
+  * Stacking Methods
+  * Random Forests 
+  * Other Ensemble Methods
+  * Meaning and Application Areas of KFold Validation
+  * Implementation of Ensemble Methods Using Scikit-Learn Library
+  * Using the XGBoost Library
 
-* __Otomatik Makine Öğrenmesine (Automated Machine Learning) İlişkin Kütüphanelerin Kullanımı__
+* __Using Libraries for Automated Machine Learning__
 
-  * AutoKeras Kütüphanesinin Kullanımı
-  * AutoSklearn Kütüphanesinin Kullanımı
-  * TPOT Kütüphanesinin Kullanımı
+  * Using AutoKeras Library
+  * Using AutoSklearn Library
+  * Using the TPOT Library
 
-* __Pekiştirmeli Öğrenme (Reinforcement Learning)__
+* Reinforcement Learning (Reinforcement Learning)__
 
-  * Pekiştirmeli Öğrenme Nedir?
-  * İnsan Öğrenmesinde Edimsel Koşullanma (Operant Conditioning)
-  * İnsan Öğrenmesinde Pekiştireçler ve Pekiştirme Tarifeleri
-  * Pekiştirmeli Makine Öğrenmesi Nedir?
-  * Pekiştirmeli Makine Öğrenmesinin Uygulama Alanları
-  * OpenAI GYM Ortamı
-  * OpenAI GYM Simülatörlerinin Kullanılması
-  * Pekiştirmeli Öğrenmede Kullanılan Algoritmalar
-  * Q-Learning Algoritması
-  * Q-Learning Algoritması ile GYM Simülatörleri Üzerinde Örnekler
-  * Pekiştirmeli Öğrenmede Yapay Sinir Ağlarının Kullanımı
-  * Pekiştirmeli Öğrenmede Deep Q-Learning Yöntemleri
+  * What is Reinforcement Learning?
+  * Operant Conditioning in Human Learning
+  * Reinforcers and Reinforcement Tariffs in Human Learning
+  * What is Reinforcement Machine Learning?
+  * Application Areas of Reinforcement Machine Learning
+  * OpenAI GYM Environment
+  * Using OpenAI GYM Simulators
+  * Algorithms Used in Reinforcement Learning
+  * Q-Learning Algorithm
+  * Examples on GYM Simulators with Q-Learning Algorithm
+  * Use of Artificial Neural Networks in Reinforcement Learning
+  * Deep Q-Learning Methods in Reinforcement Learning
   
-* __Pekiştirmeli Öğrenmede Kullanılan Yüksek Seviyeli Kütüphaneler__
+* __High Level Libraries Used in Reinforcement Learning__
 
-  * Stable-Baselines Kütüphanesinin Kullanımı
-  * Keras-RL Kütüphanesinin Kullanımı
+  * Using the Stable-Baselines Library
+  * Using the Keras-RL Library
 
-* __Makine Öğrenmesi İçin Cloud Platformlarının Kullanılması__
+* __Using Cloud Platforms for Machine Learning__
 
-  * Cloud Platformlarının Özellikleri, Avantajları ve Dezavantajları
-  * Makine Öğrenmesi İçin Amazon AWS SageMaker Platformunun Kullanımı
-  * Makine Öğrenmesi İçin Microsoft Azure Platformunun Kullanımı
-  * Makine Öğrenmesi İçin Google Cloud Platformunun Kullanımı
-  * Makine Öğrenmesi İçin IBM Watson Platformunun Kullanımı 
+  * Features, Advantages and Disadvantages of Cloud Platforms
+  * Using Amazon AWS SageMaker Platform for Machine Learning
+  * Using Microsoft Azure Platform for Machine Learning
+  * Using Google Cloud Platform for Machine Learning
+  * Using IBM Watson Platform for Machine Learning 
 
 #virtual environment:
 python -m venv aienv
